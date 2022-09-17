@@ -1,0 +1,3 @@
+Primeras pruebas con git en mi maquina virtual ubuntu 22.04
+
+
